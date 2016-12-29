@@ -16,3 +16,7 @@ Here are the different implementations:
 * [Javascript Callbacks with `async` library](b.js)
 * [Typescript Promises](c.ts)
 * [Typescript Promises with async/await](d.ts)
+
+## Todo
+* The first two implementations do not perform getMessage() and getTag() in parallel.
+* The last two implementations don't have error checking at every function call
